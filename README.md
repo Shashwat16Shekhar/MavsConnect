@@ -19,3 +19,7 @@ Search
 
 
 For further details please see the MavsConnect-Document or visit the video link - https://www.youtube.com/watch?v=Mi63dVQOL3Y
+Sign Up
+![image](https://github.com/Shashwat16Shekhar/MavsConnect/assets/42942896/df88a925-04e2-427b-a910-241868d9e0bd)
+
+
